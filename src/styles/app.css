@@ -39,6 +39,11 @@
 	--1s: 1ms;
 }
 
+.key.clicked {
+	background: #333;
+	color: white;
+}
+
 /* dark theme */
 /* this is a starting place for dark mode - test before deploying */
 
